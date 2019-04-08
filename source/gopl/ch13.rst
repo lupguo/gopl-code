@@ -1,0 +1,85 @@
+.. _13_ch13:
+
+ch13
+==========
+
+
+bzip/bzip2.c
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/bzip/bzip2.c
+	:caption: /gopl.io/ch13/bzip/bzip2.c
+	:name: ch13/bzip/bzip2.c
+	:language: c
+
+bzip/bzip2.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/bzip/bzip2.go
+	:caption: /gopl.io/ch13/bzip/bzip2.go
+	:name: ch13/bzip/bzip2.go
+	:language: go
+
+bzip/bzip2_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/bzip/bzip2_test.go
+	:caption: /gopl.io/ch13/bzip/bzip2_test.go
+	:name: ch13/bzip/bzip2_test.go
+	:language: go
+
+bzip-print/bzip2.c
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/bzip-print/bzip2.c
+	:caption: /gopl.io/ch13/bzip-print/bzip2.c
+	:name: ch13/bzip-print/bzip2.c
+	:language: c
+
+bzip-print/bzip2.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/bzip-print/bzip2.go
+	:caption: /gopl.io/ch13/bzip-print/bzip2.go
+	:name: ch13/bzip-print/bzip2.go
+	:language: go
+
+bzip-print/bzip2_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/bzip-print/bzip2_test.go
+	:caption: /gopl.io/ch13/bzip-print/bzip2_test.go
+	:name: ch13/bzip-print/bzip2_test.go
+	:language: go
+
+bzipper/main.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/bzipper/main.go
+	:caption: /gopl.io/ch13/bzipper/main.go
+	:name: ch13/bzipper/main.go
+	:language: go
+
+equal/equal.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/equal/equal.go
+	:caption: /gopl.io/ch13/equal/equal.go
+	:name: ch13/equal/equal.go
+	:language: go
+
+equal/equal_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/equal/equal_test.go
+	:caption: /gopl.io/ch13/equal/equal_test.go
+	:name: ch13/equal/equal_test.go
+	:language: go
+
+unsafeptr/main.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch13/unsafeptr/main.go
+	:caption: /gopl.io/ch13/unsafeptr/main.go
+	:name: ch13/unsafeptr/main.go
+	:language: go

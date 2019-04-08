@@ -1,0 +1,77 @@
+.. _11_ch11:
+
+ch11
+==========
+
+
+echo/echo.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/echo/echo.go
+	:caption: /gopl.io/ch11/echo/echo.go
+	:name: ch11/echo/echo.go
+	:language: go
+
+echo/echo_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/echo/echo_test.go
+	:caption: /gopl.io/ch11/echo/echo_test.go
+	:name: ch11/echo/echo_test.go
+	:language: go
+
+storage1/storage.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/storage1/storage.go
+	:caption: /gopl.io/ch11/storage1/storage.go
+	:name: ch11/storage1/storage.go
+	:language: go
+
+storage2/quota_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/storage2/quota_test.go
+	:caption: /gopl.io/ch11/storage2/quota_test.go
+	:name: ch11/storage2/quota_test.go
+	:language: go
+
+storage2/storage.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/storage2/storage.go
+	:caption: /gopl.io/ch11/storage2/storage.go
+	:name: ch11/storage2/storage.go
+	:language: go
+
+word1/word.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/word1/word.go
+	:caption: /gopl.io/ch11/word1/word.go
+	:name: ch11/word1/word.go
+	:language: go
+
+word1/word_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/word1/word_test.go
+	:caption: /gopl.io/ch11/word1/word_test.go
+	:name: ch11/word1/word_test.go
+	:language: go
+
+word2/word.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/word2/word.go
+	:caption: /gopl.io/ch11/word2/word.go
+	:name: ch11/word2/word.go
+	:language: go
+
+word2/word_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch11/word2/word_test.go
+	:caption: /gopl.io/ch11/word2/word_test.go
+	:name: ch11/word2/word_test.go
+	:language: go

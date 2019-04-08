@@ -1,0 +1,101 @@
+.. _12_ch12:
+
+ch12
+==========
+
+
+display/display.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/display/display.go
+	:caption: /gopl.io/ch12/display/display.go
+	:name: ch12/display/display.go
+	:language: go
+
+display/display_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/display/display_test.go
+	:caption: /gopl.io/ch12/display/display_test.go
+	:name: ch12/display/display_test.go
+	:language: go
+
+format/format.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/format/format.go
+	:caption: /gopl.io/ch12/format/format.go
+	:name: ch12/format/format.go
+	:language: go
+
+format/format_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/format/format_test.go
+	:caption: /gopl.io/ch12/format/format_test.go
+	:name: ch12/format/format_test.go
+	:language: go
+
+methods/methods.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/methods/methods.go
+	:caption: /gopl.io/ch12/methods/methods.go
+	:name: ch12/methods/methods.go
+	:language: go
+
+methods/methods_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/methods/methods_test.go
+	:caption: /gopl.io/ch12/methods/methods_test.go
+	:name: ch12/methods/methods_test.go
+	:language: go
+
+params/params.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/params/params.go
+	:caption: /gopl.io/ch12/params/params.go
+	:name: ch12/params/params.go
+	:language: go
+
+search/main.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/search/main.go
+	:caption: /gopl.io/ch12/search/main.go
+	:name: ch12/search/main.go
+	:language: go
+
+sexpr/decode.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/sexpr/decode.go
+	:caption: /gopl.io/ch12/sexpr/decode.go
+	:name: ch12/sexpr/decode.go
+	:language: go
+
+sexpr/encode.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/sexpr/encode.go
+	:caption: /gopl.io/ch12/sexpr/encode.go
+	:name: ch12/sexpr/encode.go
+	:language: go
+
+sexpr/pretty.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/sexpr/pretty.go
+	:caption: /gopl.io/ch12/sexpr/pretty.go
+	:name: ch12/sexpr/pretty.go
+	:language: go
+
+sexpr/sexpr_test.go
+----------------------------------------
+
+.. literalinclude:: /gopl.io/ch12/sexpr/sexpr_test.go
+	:caption: /gopl.io/ch12/sexpr/sexpr_test.go
+	:name: ch12/sexpr/sexpr_test.go
+	:language: go
