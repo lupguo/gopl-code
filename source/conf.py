@@ -56,4 +56,7 @@ html_static_path = ['_static']
 
 html_theme_options = {
     "stickysidebar" : True,
+    "footerbgcolor" : "#4f6873",
+    "sidebarbgcolor" : "#ac4142",
+    "headbgcolor" : "#e6e3bd",
 }
