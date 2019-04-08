@@ -24,7 +24,6 @@ author = 'TERRY.ROD'
 # The full version, including alpha/beta/rc tags
 release = 'alpha'
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -41,7 +40,6 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -55,8 +53,17 @@ html_theme = 'classic'
 html_static_path = ['_static']
 
 html_theme_options = {
-    "stickysidebar" : True,
-    "footerbgcolor" : "#4f6873",
-    "sidebarbgcolor" : "#ac4142",
-    "headbgcolor" : "#e6e3bd",
+    "stickysidebar": True,
+
+    # 背景色
+    "relbarbgcolor": "#f75a1ea6",
+    "sidebarbgcolor": "#ac4142",
+    "footerbgcolor": "#4f6873",
+    "headbgcolor": "#e6e3bd",
+
+    "sidebartextcolor": "#fdc261",
+    "textcolor": "#ffffff",
+
+    # 左侧边栏
+    "sidebarlinkcolor": "#ffffff",
 }
